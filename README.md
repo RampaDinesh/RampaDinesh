@@ -41,8 +41,7 @@ Code • Learn • Build
 ### 🩺 Pneumonia Detection System
 Built a deep learning-based pneumonia detection system using pre-trained models for medical image classification.
 
-### 🧠 MCP Memory Storage
-Built an MCP-based memory storage system for handling and storing contextual AI data.
+
 
 ---
 
